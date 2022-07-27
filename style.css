@@ -9,9 +9,24 @@ body{
 .header-bg{
     background-color: #FFF9F4;
 }
-.small-text-clr{
+.text-orange{
+    color: #FA804C;
+}
+
+.primary-text-gray{
+    color: #363958;
+}
+.secondary-text-gray{
     color: #3C3C3C;
 }
-.btn-gradient{
-    background: linear-gradient(to bottom,#A4BC46,#85A019 );
+
+.btn-nike{
+    background: linear-gradient(to bottom,#3D4FF3,#3543BC );
+    border: none;
+    padding: 18px 33px;
+    color: #ffffff;
+    text-transform: uppercase;
+}
+.banner-content h1{
+    font-size: 76px;
 }
