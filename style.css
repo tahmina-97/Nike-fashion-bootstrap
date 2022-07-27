@@ -9,6 +9,12 @@ body{
 .header-bg{
     background-color: #FFF9F4;
 }
+.img-bg{
+    background-color: #F1F1F1;
+}
+.main-bg{
+    background-color: #E5E5E5;
+}
 .text-orange{
     color: #FA804C;
 }
@@ -23,7 +29,7 @@ body{
 .btn-nike{
     background: linear-gradient(to bottom,#3D4FF3,#3543BC );
     border: none;
-    padding: 18px 33px;
+    padding: 18px 30px;
     color: #ffffff;
     text-transform: uppercase;
 }
